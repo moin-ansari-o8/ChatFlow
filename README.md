@@ -62,15 +62,6 @@ Example input and response:
 
 ## Contributing
 
-If you would like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
-## Contributing
-
 We welcome contributions to improve the chatbot. If you'd like to contribute, please follow these steps:
 
 1. **Fork the repository.**
@@ -95,6 +86,12 @@ We welcome contributions to improve the chatbot. If you'd like to contribute, pl
 
 5. **Open a Pull Request** to the `main` branch of the original repository.
 
+## Contact
+
+For any questions or feedback, please contact:
+
+- **Email**: your.email@example.com
+- **GitHub**: [moin-ansari-o8](https://github.com/moin-ansari-o8)
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
