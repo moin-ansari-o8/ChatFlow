@@ -90,7 +90,7 @@ We welcome contributions to improve the chatbot. If you'd like to contribute, pl
 
 For any questions or feedback, please contact:
 
-- **Email**: your.email@example.com
+- **Email**: moin.edu01@gmail.com
 - **GitHub**: [moin-ansari-o8](https://github.com/moin-ansari-o8)
 ## License
 
