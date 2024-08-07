@@ -8,11 +8,10 @@ ChatBot is an interactive chatbot application built in Python that can handle va
 
 ## Features
 
-- **Greeting**: Responds to various greetings.
-- **Time**: Provides the current time.
-- **Date**: Provides the current date.
-- **Weather**: Fetches and displays the current weather for a specified city.
-- **Miscellaneous**: Handles other predefined intents.
+- **Conversational Chatbot**: Engage in interactive conversations with the chatbot. It is capable of understanding and responding to various user inputs.
+- **Time Information**: Provides the current time upon request.
+- **Date Information**: Gives today's date when asked.
+- **Weather Information**: Retrieves and displays weather conditions for a specified location using web scraping.
 
 ## Installation
 
@@ -46,20 +45,30 @@ ChatBot is an interactive chatbot application built in Python that can handle va
     ```bash
     pip freeze > requirements.txt
     ```
-
-## Usage
-
-1. **Run the application:**
+4. **Run the application:**
 
     ```bash
     python chatMain.py
     ```
+    
+## Usage
 
-2. **Interact with the chatbot:**
+To interact with the chatbot, run the program and type your messages. The chatbot will respond based on the intents and patterns defined in the `referenceConvo.json` file.
 
-   - Type your messages or queries to interact with the chatbot.
-   - Example inputs include "hi", "what's the weather in London?", "what time is it?", etc.
+Example input and response:
 
+- **Input**: `hi`
+- **Response**: `Hello sir!`
+
+## Contributing
+
+If you would like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a new Pull Request.
 ## Contributing
 
 We welcome contributions to improve the chatbot. If you'd like to contribute, please follow these steps:
