@@ -92,7 +92,5 @@ For any questions or feedback, please contact:
 
 - **Email**: moin.edu01@gmail.com
 - **GitHub**: [moin-ansari-o8](https://github.com/moin-ansari-o8)
-## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
