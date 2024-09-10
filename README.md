@@ -40,11 +40,6 @@ ChatBot is an interactive chatbot application built in Python that can handle va
     pip install -r requirements.txt
     ```
 
-   Ensure you have a `requirements.txt` file with the necessary libraries. If not, you can create it using:
-
-    ```bash
-    pip freeze > requirements.txt
-    ```
 4. **Run the application:**
 
     ```bash
